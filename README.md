@@ -149,6 +149,9 @@ be language-agnostic, while providing identical features and similar parallel pr
 all languages.
 
 ## Release Notes
+### Release 4.1.1 (October 29, 2025)
+* [#286](https://github.com/awslabs/amazon-kinesis-client-net/pull/286) Upgrade netty.version from 4.2.4.Final to 4.2.7.Final
+
 ### Release 4.1.0 (October 1, 2025)
 * [#276](https://github.com/awslabs/amazon-kinesis-client-net/pull/276) Add multi-lang support for leaseAssignmentIntervalMillis
 * [#281](https://github.com/awslabs/amazon-kinesis-client-net/pull/281) Upgrade amazon-kinesis-client from 3.0.0 to 3.1.3
